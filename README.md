@@ -1,6 +1,6 @@
 ### Hi there, my name is André! 👋
 
-- 🖥️ Fullstack developer
+- 🖥️ Backend developer
 - 📫 ak1lages@gmail.com
 
 <div>
